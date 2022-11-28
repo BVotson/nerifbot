@@ -23,7 +23,7 @@ def shuffleall():
 
 
 #TOKEN
-TOKEN = "5673328479:AAGFu_ahgLdUWw2T_UaaioiEcXSUmNK3xXo"
+TOKEN = "5611167409:AAG4hz_IJGWNyh0fO3S8B2sxrM59Y1xSVwM"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
